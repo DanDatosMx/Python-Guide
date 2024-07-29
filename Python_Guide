@@ -1,0 +1,9 @@
+# Convertir un archivo de py a Exe
+#- Instalar librería "pip install pyinstaller"
+#en el cmd
+
+#1) cd [Ruta de la Carpeta]
+
+# 2) pyinstaller --onefile nombrepy.py
+
+
