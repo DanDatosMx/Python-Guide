@@ -6,4 +6,7 @@
 
 # 2) pyinstaller --onefile nombrepy.py
 
+import time23print("Este es el primer mensaje.")4time.sleep(2)  
+
+# Pausa durante 2 segundos5print("Este es el segundo mensaje después de la pausa.")
 
